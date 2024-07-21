@@ -17,4 +17,6 @@ JavaScript Functionality:
 The game logic handles player turns, checks for winners or draws, and manages the game state.
 It uses event listeners to update the game board when cells are clicked, checks for winning patterns, and shows messages when the game ends.
 The resetGame function allows for restarting the game or starting a new one, re-enabling the cells and hiding messages.
+
+
 In summary, this project demonstrates basic game development skills, including handling user interactions, implementing game logic, and creating a visually appealing interface.
