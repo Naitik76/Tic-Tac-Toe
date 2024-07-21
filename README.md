@@ -5,11 +5,13 @@ HTML Structure:
 
 The page includes a header, a 3x3 grid for the game, and buttons for resetting the game and starting a new one.
 The msg-container is used to display messages like the winner or if the game is a draw.
+
 CSS Styling:
 
 The game has a clean, centered layout with a background color and responsive design for the game grid.
 The .box elements represent the game cells, styled to have a distinct appearance with rounded corners and a shadow.
 Buttons and messages are styled to match the theme and enhance user interaction.
+
 JavaScript Functionality:
 
 The game logic handles player turns, checks for winners or draws, and manages the game state.
